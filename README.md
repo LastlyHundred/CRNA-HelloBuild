@@ -2,12 +2,17 @@
 test build an deploy capabilities with create-react-native-app tools
 
 ## resources
+  - [Expo lifecycle](https://docs.expo.io/versions/latest/introduction/project-lifecycle.html)
   - [publishing](https://docs.expo.io/versions/latest/guides/publishing.html)
   - [building-standalone-apps](https://docs.expo.io/versions/latest/guides/building-standalone-apps.html)
   - [github](https://github.com/react-community/create-react-native-app)
 
 ## set up
 This app structure was generated with ```create-react-native-app my-project``` using npm.
+
+## expo account
+https://expo.io
+webteam69+expo1@gmail.com
 
 ## run 
 ```yarn start```
